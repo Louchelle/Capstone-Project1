@@ -3,7 +3,7 @@
 
 ### **Function of the program:**
 - Allows the user to calculate their interest on an investment 
--  Allows the user to calculate the amount that should be repaid on a home loan each month
+- Allows the user to calculate the amount that should be repaid on a home loan each month
 
 ### **How to run the code:**
 1. Copy and paste the code into your python IDLE app.
